@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Práctica VEGA ROSSEL HECTOR RODRIGO</title>
+	<style type="text/css">
+		body {
+			margin: 50px;
+		}
+		a {
+			text-decoration: none;
+			color: #950a00;
+		}
+		#margen_clases {
+			margin: 0px 0px 0px 61px;
+		}
+		#margen_azul {
+			border: 3px solid;
+			color: #5f5fff;
+			text-align: center;
+			border-radius: 20px;
+			width: 297px;
+			height: 147px;
+		}
+		#caja_beige {
+			background-color: #faebd7;
+			text-align: center;
+			width: 632px;
+			margin: 0 auto;
+		}
+		#punto_amarillo {
+			color: #ffb100;
+		}
+		.texto_arial_subrayado {
+			font-family: arial;
+			text-decoration: underline;
+		}
+		.texto_arial {
+			font-family: arial;
+		}
+		.texto_lila {
+			color: #8d2de0;
+		}
+		#texto_verde {
+			color: #37719a;
+		}
+		.texto_rojo {
+			color: #950a00;
+		}
+		.clear-float {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<div id="margen_azul">
+		<a href="https://www.aulaclic.es/"><img src="aulaclic_logo.jpg" width="271px"></a>
+	</div>
+	<div id="caja_beige">
+		<h1>
+			<ul>
+				<li id="punto_amarillo" type="disc">
+					<p class="texto_rojo">
+						aulaClic. Cursos de inform&aacutetica gratis
+					</p>
+				</li>
+			</ul>
+		</h1>
+	</div>
+	<h2 id="texto_verde" class="clear-float">
+		La primera web en español sobre cursos de inform&aacutetica <span class="texto_arial_subrayado">gratis</span> on-line.
+	</h2>
+	<div id="margen_clases"><h2 class="texto_rojo">
+		Cursos de aulaClic
+	</h2>
+	<ol class="texto_rojo">
+		<li>
+			<a href="https://www.aulaclic.es/access-2016/index.htm">
+				Access 2016
+			</a>
+		</li>
+		<li>
+			<a href="https://www.aulaclic.es/excel-2016/index.htm">
+				Excel 2016
+			</a>
+		</li>
+		<li>
+			<a href="https://www.aulaclic.es/internet/index.htm">
+				Internet
+			</a>
+		</li>
+		<li>
+			<a href="https://www.aulaclic.es/windows-10/index.htm">
+				Windows
+			</a>
+		</li>
+	</ol>
+	<h2 class="texto_rojo">
+		Cursos de colaboradores
+	</h2>
+	<ol start="5" class="texto_rojo">
+		<li>
+			<a href="https://www.aulaclic.es/autocad-2015/index.htm">
+				autoCAD 2015
+			</a>
+		</li>
+		<li>
+			<a href="https://www.aulaclic.es/estadistica-excel/index.htm">
+				Estad&iacutestica con Excel 
+			</a>
+		</li>
+		<li>
+			<a href="https://www.aulaclic.es/joomla/index.htm">
+				Joomla
+			</a>
+		</li>
+	</ol>
+	</div>
+	<h2 class="texto_lila clear-float">
+		S&iacuteguenos en <span class="texto_arial"><b><a class="texto_lila" href="https://www.facebook.com/cursosaulaclic">Facebook<a></b></span>
+	</h2>
+</body>
+</html>
